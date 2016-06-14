@@ -5,6 +5,7 @@ It is a full-stack web developed website to Collectively showing my favorite mov
 1. [Download the Python](https://www.python.org/downloads/)
 2. Clone the repo  `git clone https://github.com/JamesWangbrothers/Movie-Trailer-Website`
 3. Execute the entertainment_center.py file
+
 ## What's include
 - readme file: user guilde to open and run the application
 - media py file: create the class for the data structure
