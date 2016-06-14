@@ -1,7 +1,7 @@
 import webbrowser
 
 
-class Movie():
+class Movie:
 
     """This class provides a way to store \
        a movie related information"""  # create the documentation
@@ -17,4 +17,6 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):  # class method
+
+        """This method provides a way to play the trailer"""
         webbrowser.open(self.trailer_youtube_url)
